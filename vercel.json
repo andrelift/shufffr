@@ -4,7 +4,7 @@
     "api/index.php": {
       "runtime": "vercel-php@0.7.4"
     },
-    "api/rrdbwk.php": {
+    "api/1e6n4m3.php": {
       "runtime": "vercel-php@0.7.4"
     }
   },
@@ -17,8 +17,8 @@
       "dest": "/assets/$1"
     },
     {
-      "src": "/api/rrdbwk.php",
-      "dest": "/api/rrdbwk.php"
+      "src": "/api/1e6n4m3.php",
+      "dest": "/api/1e6n4m3.php"
     },
     {
       "src": "/(.*)",
